@@ -17,7 +17,7 @@ These medications fall into five different classes:
 
 2. Readmission: 
 
-It ndicates whether the patient was readmitted within 30 days of the last hospital admission (“<30”), 
+It indicates whether the patient was readmitted within 30 days of the last hospital admission (“<30”), 
 more than 30 days after the last readmission on record (“>30”) or there were no records of previous admissions in the data (“No”). 
 Note that readmissions within the last 30 days are tracked particularly closely and are often penalized by government oversight and insurance agencies; 
 readmissions that occur more than 30 days since the previous admission are considered less serious.
