@@ -33,4 +33,4 @@ The audience for the presentation includes the director of pharmacy, the head of
 * The dataset consists of 101766 encounters and 17 kinds of drugs
 * This is a supervised learning and the target variable is readmitted
 * We aim at finding 2 drugs that decreasing the occurrence of readmission <30 effectively and 2 alternative drugs
-* Please find details in datathon notebook2 final.ipynb  file
+* Please find details in datathon notebook2 final.ipynb  file and slides in Datathon.pptx
